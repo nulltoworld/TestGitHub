@@ -1,2 +1,4 @@
 查看当前本地所有远程地址别名
  git remote -v
+克隆
+ git clone [远程地址]
