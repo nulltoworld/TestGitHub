@@ -2,3 +2,6 @@
  git remote -v
 克隆
  git clone [远程地址]
+拉取(fetch和pull都是对远程库读操作不需要登录)
+ git fetch [远程库地址别名] [远程分支名]
+ git merge [远程库地址别名/远程分支名]
